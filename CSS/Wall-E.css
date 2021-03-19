@@ -1,0 +1,62 @@
+
+body {
+    background-color: paleturquoise;
+    margin: 0;
+}
+
+header {
+    background-color: rebeccapurple;
+    text-align: center;
+    font-size: 50px;
+    color: sandybrown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1, h2 {
+    font-family: 'Luckiest Guy', cursive;
+}
+li {
+    color: indigo;
+    font-size: 20px;
+}
+
+header img{
+    width: 500px;
+    height: 500px;
+    border-radius: 260px;
+    object-fit: cover   ;
+    border: 20px solid sandybrown;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+main img {
+    width: 100%;
+}
+.About {
+    color: indigo;
+    font-size: 23px;
+    font-family: cursive;
+}
+h2 {
+    color: rebeccapurple;
+    font-size: 40px;
+}
+a {
+    color: palevioletred;
+    text-decoration: none;
+}
+a:hover {
+    color: purple;
+}
+footer {
+    background-color: sandybrown;
+    text-align: center;
+    color: whitesmoke;
+    padding: 50px;
+    box-shadow: 0 3px 10px 3px #888;
+}
